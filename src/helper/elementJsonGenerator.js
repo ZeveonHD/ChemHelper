@@ -77,6 +77,12 @@ element("Cobalt",           "Co")
 element("Nickel",           "Ni")
 element("Copper",           "Cu")
 element("Zinc",             "Zn")
+element("Gallium",          "Ga")
+element("Germanium",        "Ge")
+element("Arsenic",          "As")
+element("Selenium",         "Se")
+element("Bromine",          "Br")
+element("Krypton",          "Kr")
 
 
 
